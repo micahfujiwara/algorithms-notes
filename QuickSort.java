@@ -1,6 +1,3 @@
-// Java program of Quick Select
-import java.util.Arrays;
-
 public class QuickSort {
 
 	// partition function similar to quick sort
